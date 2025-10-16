@@ -14,7 +14,8 @@
 
 **Proposition 2: I2P like high bandwidth model**
   A completely decentralised, communication based protocol and Mesh network, with a minimum of 5mb/s throughput for image and video loading, as well as vc.
-
+  
   pros: can't really be shut down, as we don't know where servers are
   cons: as we don't know where the servers are, we can't intelligently load balance and say eg. "nodes in the middle east should have a lot of unix porn on them, cause middle eastern people seem to enjoy that a lot" + this highly cryptic protocols, where it's not just parts of a message there's encryptedd but everything is encrypted and tunnalised, are quiet performance heavy and rather slow in general
+  
 ---
