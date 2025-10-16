@@ -19,3 +19,14 @@
   cons: as we don't know where the servers are, we can't intelligently load balance and say eg. "nodes in the middle east should have a lot of unix porn on them, cause middle eastern people seem to enjoy that a lot" + this highly cryptic protocols, where it's not just parts of a message there's encryptedd but everything is encrypted and tunnalised, are quiet performance heavy and rather slow in general  
   
 ---
+
+---
+@U2C9727A4  
+  
+**Propositions 1:  Hybrid I2P**  
+  Entry nodes live on clearnet, mesh is only accessible over I2P.  
+    
+  Pros: Cannot be shutdown, controlled or influenced by any government. Simple to implement.  
+  Cons: 5mbps is possible, but it will have high latency and the amount of bandwidth we have to share is big. (On I2P, the more bandwidth you share, the faster your connections become)  
+  
+----
