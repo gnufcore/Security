@@ -25,8 +25,9 @@
   
 **Propositions 1:  Hybrid I2P**  
   Entry nodes live on clearnet, mesh is only accessible over I2P.  
+  Clients connect to these clearnet entry nodes, Which then accesses the mesh for them.    
     
-  Pros: Cannot be shutdown, controlled or influenced by any government. Simple to implement.  
+  Pros: Cannot be shutdown (not fully), controlled or influenced by any government. Simple to implement. Retains convenience of full clearnet.  
   Cons: 5mbps is possible, but it will have high latency and the amount of bandwidth we have to share is big. (On I2P, the more bandwidth you share, the faster your connections become)  
   
 ----
