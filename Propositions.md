@@ -9,5 +9,12 @@
   1.b
     as false negatives will happen, a "send anyways" button will be added, along with a warning that this will send username, IP and message unencrypted to our servers for manual verification by mods and potential criminal charges if deemed viable 
 
-**Proposition 2:**
+  Pros: gives a clear plausible deniability as we have clearly acted in good faith and even attempted to make the media as hostile towards bad actors as possible
+  cons: we will be sacrificing a neglicable amount of freedom, independency and privacy in order for this to happen + making a tamber proof client side mod system is gonna be a pain in the ass
+
+**Proposition 2: I2P like high bandwidth model**
+  A completely decentralised, communication based protocol and Mesh network, with a minimum of 5mb/s throughput for image and video loading, as well as vc.
+
+  pros: can't really be shut down, as we don't know where servers are
+  cons: as we don't know where the servers are, we can't intelligently load balance and say eg. "nodes in the middle east should have a lot of unix porn on them, cause middle eastern people seem to enjoy that a lot" + this highly cryptic protocols, where it's not just parts of a message there's encryptedd but everything is encrypted and tunnalised, are quiet performance heavy and rather slow in general
 ---
